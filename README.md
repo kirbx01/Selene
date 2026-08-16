@@ -59,7 +59,7 @@ Known sensor spacing and measured time delays are used to estimate propagation d
 
 `v = d / Δt`
 
-### 06 — Infer
+### 06 : Infer
 
 Spatial, temporal, and morphological features can be passed to a lightweight Edge-AI model for local classification and artifact rejection.
 
