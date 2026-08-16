@@ -237,7 +237,7 @@ Increasing sensor count and improving geometry could enable estimation of two-di
 
 A custom flexible PCB could integrate sensing, analog front-end circuitry, the MCU, power management, and local feedback into a compact wearable platform.
 
-### Personalized Edge AI
+### Personalized Edge AI (As advised for the course of competition)
 
 Instead of relying exclusively on population-level thresholds, SELENE could learn an individual's baseline physiological signature and detect meaningful deviations locally.
 
