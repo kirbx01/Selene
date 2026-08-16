@@ -1,8 +1,5 @@
 # SELENE
-![Static Badge](https://img.shields.io/badge/Edge_AI-On--Device-black)
-![Static Badge](https://img.shields.io/badge/Spatial_Inference-Real--Time-black)
-![Static Badge](https://img.shields.io/badge/Hardware-ESP32-black)
-![Static Badge](https://img.shields.io/badge/DSP-Cross--Correlation-black)
+![Static Badge](https://img.shields.io/badge/Hardware-ESP32?style=plastic&logo=espressif&color=pink)
 ![Static Badge](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ![setup](assets/setup.jpeg)
