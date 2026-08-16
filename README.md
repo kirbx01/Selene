@@ -1,7 +1,5 @@
 # SELENE
 
-### Spatial Edge Intelligence for Continuous Physiological Monitoring
-
 > **The body doesn't wait for the next appointment.**
 
 SELENE is a low-cost, Edge-AI wearable research platform exploring how **spatiotemporal information** can improve continuous physiological monitoring.
