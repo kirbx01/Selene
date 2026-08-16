@@ -1,8 +1,9 @@
 # SELENE
-![Edge AI](https://img.shields.io/badge/Edge_AI-ON_DEVICE-000000?style=for-the-badge)
-![Spatial Intelligence](https://img.shields.io/badge/Spatial_Intelligence-TIME_%3D_DATA-000000?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/Powered_by-ESP32-000000?style=for-the-badge)
-![Research Prototype](https://img.shields.io/badge/Research-Prototype-000000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Edge_AI-On--Device-black)
+![Static Badge](https://img.shields.io/badge/Spatial_Inference-Real--Time-black)
+![Static Badge](https://img.shields.io/badge/Hardware-ESP32-black)
+![Static Badge](https://img.shields.io/badge/DSP-Cross--Correlation-black)
+![Static Badge](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ![setup](assets/setup.jpeg)
 ![terminal](assets/logs.png)
