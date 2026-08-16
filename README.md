@@ -1,6 +1,7 @@
 # SELENE
 ![Static Badge](https://img.shields.io/badge/Hardware-ESP32?style=plastic&logo=espressif&color=pink)
 ![Static Badge](https://img.shields.io/badge/Status-Prototype-yellow)
+![Static Badge](https://img.shields.io/badge/Spatial_Inference--black?style=plastic&color=red)
 
 ![setup](assets/setup.jpeg)
 ![terminal](assets/logs.png)
