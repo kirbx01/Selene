@@ -135,7 +135,7 @@ It demonstrates:
 
 > **Sense → correlate → localize → decide.**
 
-# Edge AI Strategy
+# Edge AI Strategy (As advised for the coure of competition)
 
 SELENE deliberately separates **signal understanding** from **machine learning**.
 
