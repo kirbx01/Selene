@@ -34,7 +34,7 @@ while keeping signal processing and inference local to the device.
 
 # Architecture
 
-TBA
+![architecture](assets/architecture.png)
 
 ### No cloud in the inference loop.
 
