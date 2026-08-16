@@ -3,7 +3,7 @@
 ![setup](assets/setup.jpeg)
 ![terminal](assets/logs.png)
 
-> ** This prototype demonstrates SELENE's fundamental sensing principle: spatially separated sensors can turn time differences into information about an event. A controlled mechanical impulse is detected at multiple sensing points, while the ESP32 measures their relative arrival times and reconstructs the event's propagation direction and velocity entirely on-device. The demonstration therefore validates the core pipeline behind SELENE — not simply detecting an event, but using its spatiotemporal signature to localize it at the edge. **
+> This prototype demonstrates SELENE's fundamental sensing principle: spatially separated sensors can turn time differences into information about an event. A controlled mechanical impulse is detected at multiple sensing points, while the ESP32 measures their relative arrival times and reconstructs the event's propagation direction and velocity entirely on-device. The demonstration therefore validates the core pipeline behind SELENE — not simply detecting an event, but using its spatiotemporal signature to localize it at the edge.
 
 --- 
 
