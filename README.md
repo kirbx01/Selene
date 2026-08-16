@@ -9,7 +9,6 @@ Instead of treating a physiological event as a single waveform, SELENE uses a di
 **Where did the event occur? How did it propagate? How fast did it move? Is the observed pattern meaningful or an artifact?**
 The inference pipeline is designed to run locally on an **ESP32**, enabling low-latency, offline-first physiological intelligence without requiring raw signals to be continuously transmitted to the cloud.
 
----
 
 ## The Research Insight
 
@@ -18,7 +17,6 @@ Its **timing across physical space** can reveal how activity propagates — info
 > **The delay is not noise. It is information.**
 Research in multichannel electrohysterography has demonstrated measurable spatial propagation of uterine electrical activity, motivating SELENE's approach to distributed sensing and spatiotemporal inference.
 
----
 
 ## Why SELENE?
 Clinical monitoring often provides **intermittent snapshots** of a physiological system that is changing continuously.
@@ -28,7 +26,6 @@ The core idea is to transform:
 
 while keeping signal processing and inference local to the device.
 
----
 
 # Architecture
 
@@ -39,7 +36,6 @@ TBA
 Raw signals can remain at the point of measurement while processing and decision-making happen directly on the embedded device. 
 (This is with regards to the competition guidelines of implementing EDGE AI Technology) 
 
----
 
 # How It Works
 
@@ -69,7 +65,6 @@ Known sensor spacing and measured time delays are used to estimate propagation d
 
 Spatial, temporal, and morphological features can be passed to a lightweight Edge-AI model for local classification and artifact rejection.
 
----
 
 # Prototype
 
@@ -95,7 +90,6 @@ The first SELENE prototype focuses on demonstrating the **spatiotemporal inferen
 - TinyML
 - Serial visualization
 
----
 
 # Demonstration
 
@@ -132,8 +126,6 @@ This makes the demonstration more than:
 It demonstrates:
 
 > **Sense → correlate → localize → decide.**
-
----
 
 # Edge AI Strategy
 
@@ -175,8 +167,6 @@ Potential artifact
 
 This keeps the system explainable while allowing progressively more sophisticated Edge AI.
 
----
-
 # Roadmap
 
 ```text
@@ -209,7 +199,6 @@ This keeps the system explainable while allowing progressively more sophisticate
 
 **Develop personalized Edge-AI models and validate the spatiotemporal architecture against established physiological measurement systems.**
 
----
 
 # Impact
 
@@ -229,7 +218,6 @@ The architecture is intentionally prototyped using low-cost embedded components 
 
 Local processing reduces the need to continuously transmit sensitive physiological signals to external infrastructure.
 
----
 
 # Future Scope
 
@@ -253,7 +241,6 @@ Repeated measurements could enable research into how an individual's spatiotempo
 
 The underlying architecture is a general **spatiotemporal sensing framework** and could potentially be adapted to other physiological signals where spatial propagation contains meaningful information.
 
----
 
 # Limitations
 
@@ -274,7 +261,6 @@ SELENE does **not** diagnose uterine fibroids, endometriosis, preterm labor, mis
 
 Its present objective is to demonstrate the feasibility of **low-cost, spatially distributed physiological sensing and Edge-AI inference**.
 
----
 
 # Research Foundation
 
@@ -308,8 +294,6 @@ Its present objective is to demonstrate the feasibility of **low-cost, spatially
    BMC Pregnancy and Childbirth, 24, 345.  
    DOI: `10.1186/s12884-024-06545-5`
 
----
-
 # Project Status
 
 **Prototype / Research**
@@ -327,9 +311,6 @@ Its present objective is to demonstrate the feasibility of **low-cost, spatially
 [ ] Custom PCB
 [ ] Clinical validation
 ```
-
----
-
 ## Core Idea
 
 > **A physiological event is more than a spike.**  
@@ -337,7 +318,7 @@ Its present objective is to demonstrate the feasibility of **low-cost, spatially
 
 ### SELENE
 
-** A research inititative by [Nishtha](https://github.com/nishtha-22) and [Priyanshi](https://github.com/kirbx01).**
+A research inititative by [Nishtha](https://github.com/nishtha-22) and [Priyanshi](https://github.com/kirbx01).
 
 ---
 
